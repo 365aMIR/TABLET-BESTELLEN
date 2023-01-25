@@ -1,6 +1,6 @@
 ﻿namespace TABLET_BESTELLEN
 {
-    partial class SelectedDrank
+    partial class formOrderList
     {
         /// <summary>
         /// Required designer variable.
@@ -29,11 +29,17 @@
         private void InitializeComponent()
         {
             this.panel3 = new System.Windows.Forms.Panel();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.item = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.price = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.delete = new System.Windows.Forms.DataGridViewImageColumn();
             this.panel1 = new System.Windows.Forms.Panel();
             this.btnBack = new System.Windows.Forms.Button();
             this.button17 = new System.Windows.Forms.Button();
             this.button6 = new System.Windows.Forms.Button();
             this.button16 = new System.Windows.Forms.Button();
+            this.panel3.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -43,6 +49,7 @@
             this.panel3.BackColor = System.Drawing.Color.White;
             this.panel3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.panel3.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.panel3.Controls.Add(this.dataGridView1);
             this.panel3.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.panel3.ForeColor = System.Drawing.SystemColors.WindowText;
             this.panel3.Location = new System.Drawing.Point(0, 83);
@@ -50,6 +57,47 @@
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(752, 902);
             this.panel3.TabIndex = 17;
+            this.panel3.Paint += new System.Windows.Forms.PaintEventHandler(this.panel3_Paint);
+            // 
+            // dataGridView1
+            // 
+            this.dataGridView1.AllowUserToAddRows = false;
+            this.dataGridView1.AllowUserToDeleteRows = false;
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.item,
+            this.price,
+            this.delete});
+            this.dataGridView1.Location = new System.Drawing.Point(39, 16);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.ReadOnly = true;
+            this.dataGridView1.Size = new System.Drawing.Size(678, 560);
+            this.dataGridView1.TabIndex = 19;
+            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
+            this.dataGridView1.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellDoubleClick);
+            // 
+            // item
+            // 
+            this.item.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.item.HeaderText = "item";
+            this.item.Name = "item";
+            this.item.ReadOnly = true;
+            // 
+            // price
+            // 
+            this.price.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells;
+            this.price.HeaderText = "price";
+            this.price.Name = "price";
+            this.price.ReadOnly = true;
+            this.price.Width = 55;
+            // 
+            // delete
+            // 
+            this.delete.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells;
+            this.delete.HeaderText = "delete";
+            this.delete.Name = "delete";
+            this.delete.ReadOnly = true;
+            this.delete.Width = 42;
             // 
             // panel1
             // 
@@ -89,13 +137,15 @@
             this.button17.Size = new System.Drawing.Size(43, 45);
             this.button17.TabIndex = 3;
             this.button17.UseVisualStyleBackColor = true;
+            this.button17.Click += new System.EventHandler(this.button17_Click);
             // 
             // button6
             // 
             this.button6.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)));
             this.button6.BackColor = System.Drawing.Color.Transparent;
-            this.button6.BackgroundImage = global::TABLET_BESTELLEN.Properties.Resources.loogogogoggo;
+            this.button6.BackgroundImage = global::TABLET_BESTELLEN.Properties.Resources.Logo_Las_Tapas_with_background1;
             this.button6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.button6.Enabled = false;
             this.button6.FlatAppearance.BorderColor = System.Drawing.Color.White;
             this.button6.FlatAppearance.BorderSize = 0;
             this.button6.FlatAppearance.MouseDownBackColor = System.Drawing.Color.White;
@@ -109,6 +159,7 @@
             this.button6.TabIndex = 2;
             this.button6.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button6.UseVisualStyleBackColor = false;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
             // button16
             // 
@@ -120,8 +171,9 @@
             this.button16.Size = new System.Drawing.Size(43, 45);
             this.button16.TabIndex = 0;
             this.button16.UseVisualStyleBackColor = true;
+            this.button16.Click += new System.EventHandler(this.button16_Click);
             // 
-            // SelectedDrank
+            // formOrderList
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -130,8 +182,10 @@
             this.ClientSize = new System.Drawing.Size(752, 985);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.panel3);
-            this.Name = "SelectedDrank";
-            this.Text = "Form3";
+            this.Name = "formOrderList";
+            this.Text = "/";
+            this.panel3.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.panel1.ResumeLayout(false);
             this.ResumeLayout(false);
 
@@ -144,5 +198,9 @@
         private System.Windows.Forms.Button button17;
         private System.Windows.Forms.Button button6;
         private System.Windows.Forms.Button button16;
+        public  System.Windows.Forms.DataGridView dataGridView1;
+        public  System.Windows.Forms.DataGridViewTextBoxColumn item;
+        public System.Windows.Forms.DataGridViewTextBoxColumn price;
+        public System.Windows.Forms.DataGridViewImageColumn delete;
     }
 }

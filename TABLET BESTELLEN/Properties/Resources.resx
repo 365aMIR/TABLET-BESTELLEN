@@ -118,34 +118,160 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="cart-alt-regular-24" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cart-alt-regular-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="2560px-Flag_of_the_Netherlands.svg" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\2560px-Flag_of_the_Netherlands.svg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Logo Las Tapas no background1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Logo Las Tapas no background.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="help-circle-regular-24" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\help-circle-regular-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="left-arrow-regular-24" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\left-arrow-regular-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="tablet backg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tablet backg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Flag_of_the_United_Kingdom_(3-5).svg" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Flag_of_the_United_Kingdom_(3-5).svg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="soep-750" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\soep-750.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="carpaccio" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\carpaccio.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="soup tomate" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\soup tomate.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cheesecake" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cheesecake.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="aliñadas-gordal-con-pimiento-verde-rojo-oregano-y-otras-especies-al-mojo-picon1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\aliñadas-gordal-con-pimiento-verde-rojo-oregano-y-otras-especies-al-mojo-picon1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="salade" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\salade.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pxqrocxwsjcc_6mF5RzIO2sAq4QCqIUUY2o_healthy-af_s3e82_agua-fresca-sorbet_squareThumbnail_en" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pxqrocxwsjcc_6mF5RzIO2sAq4QCqIUUY2o_healthy-af_s3e82_agua-fresca-sorbet_squareThumbnail_en.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Logo Las Tapas with background2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Logo Las Tapas with background2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ensalada-de-queso-de-cabra-con-vinagreta-de-membrillo_6307bf7e_600x600" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ensalada-de-queso-de-cabra-con-vinagreta-de-membrillo_6307bf7e_600x600.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="limon cheescake" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\limon cheescake.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cart-alt-regular-24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cart-alt-regular-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bowl-rice-solid-24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bowl-rice-solid-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Collapse Arrow_20px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Collapse Arrow_20px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pan tap tapa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pan tap tapa.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tapas-chorizo-in-rotwein-11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tapas-chorizo-in-rotwein-11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="loogogogoggo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\loogogogoggo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="tablet backg" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\tablet backg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="images (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Logo Las Tapas no background" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Logo Las Tapas no background.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="receta-de-aceitunas-alinadas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\receta-de-aceitunas-alinadas.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="0001080380QuiqueAlCuboS01E008CremaCatalanaR0101" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\0001080380QuiqueAlCuboS01E008CremaCatalanaR0101.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Logo Las Tapas with background4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Logo Las Tapas with background4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images (1)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images (1)1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="aliñadas-gordal-con-pimiento-verde-rojo-oregano-y-otras-especies-al-mojo-picon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\aliñadas-gordal-con-pimiento-verde-rojo-oregano-y-otras-especies-al-mojo-picon.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="soep vraag" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\soep vraag.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Logo Las Tapas with background3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Logo Las Tapas with background3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Logo Las Tapas with background" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Logo Las Tapas with background.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="plus-medical-regular-24" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\plus-medical-regular-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="hand-solid-24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hand-solid-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="soep-7501" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\soep-7501.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="soep vraag1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\soep vraag1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="left-arrow-regular-24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\left-arrow-regular-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="soep-750" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\soep-750.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="0001080380QuiqueAlCuboS01E008CremaCatalanaR01011" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\0001080380QuiqueAlCuboS01E008CremaCatalanaR01011.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="recept-carpaccio_v" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\recept-carpaccio_v.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DSC_0104" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DSC_0104.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bowl-rice-solid-241" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bowl-rice-solid-241.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="limon cheescake1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\limon cheescake1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pxqrocxwsjcc_6mF5RzIO2sAq4QCqIUUY2o_healthy-af_s3e82_agua-fresca-sorbet_squareThumbnail_en1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pxqrocxwsjcc_6mF5RzIO2sAq4QCqIUUY2o_healthy-af_s3e82_agua-fresca-sorbet_squareThumbnail_en1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dsdsad" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dsdsad.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Logo Las Tapas with background1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Logo Las Tapas with background1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DSC_01041" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DSC_01041.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="torta" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\torta.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="www.bertels-fotografie.nl-2870" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\www.bertels-fotografie.nl-2870.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Screenshot_202" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Screenshot_202.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tapas-chorizo-in-rotwein-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tapas-chorizo-in-rotwein-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="torta1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\torta1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
